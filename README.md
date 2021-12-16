@@ -1,5 +1,8 @@
 # 2048-Game-Reinforcement-Learning
 
---- Incomplete ---
+Still under construction.
+
+
+...
 
 Implementing 2048 game and applying Reinforcement Learning to win.
